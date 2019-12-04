@@ -1,0 +1,7 @@
+{
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "emmet.showSuggestionsAsSnippets": true,
+    "eslint.alwaysShowStatus": true,
+    "editor.tabCompletion": "on"
+  }
