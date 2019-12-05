@@ -57,8 +57,7 @@ export default class NavBar extends Component {
 }
 
 const NavWrapper = styled.nav`
-  background-image: linear-gradient(90deg, green, blue, green, blue) !important;
-  background: var(--mainBlue);
+  background: linear-gradient(90deg, green, blue, green, blue) !important;
   flex: 1;
   align-items: center;
   .nav-link {
