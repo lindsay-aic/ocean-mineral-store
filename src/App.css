@@ -6,6 +6,7 @@
   --mainYellow: #ffa400;
   --lightGreen: green;
 }
+
 body {
   font-family: "Fjord One", bold !important;
   background: var(--mainBlue) !important;
@@ -44,4 +45,9 @@ body {
   align-items: center;
   display: flex;
   width: 100%;
+}
+@media only screen and (max-width: 767px) {
+  .row1 {
+    justify-content: center;
+  }
 }

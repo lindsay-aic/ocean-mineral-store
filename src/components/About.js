@@ -15,7 +15,7 @@ export default class About extends Component {
               />
             </div>
 
-            <div className="row">
+            <div className="row row1">
               <div className="col-10 mx-auto col-md-5 my-3 text-capitalize">
                 <img
                   src={"../img/Lindsays_face.jpg"}
@@ -43,7 +43,7 @@ export default class About extends Component {
                       decided chemical engineering was not the right career
                       path. In 2018, she attended a full stack web development
                       bootcamp learning angular in the frontend and java in the
-                      backend. Her intersts grew as she learned more about the
+                      backend. Her interests grew as she learned more about the
                       benefits of the ocean. Ocean mineral fertilizer became a
                       passion after years of research for natural alternatives
                       to insecticides and pesticides after the tragic chemical
@@ -58,13 +58,15 @@ export default class About extends Component {
                     </p>
                     <br />
                     <p align="justify">
-                      Please check out the store and video for more information
-                      on ocean mineral products. The store does not enable
-                      purchase at this time. It is intended for educational use
-                      only. Please contact Lindsay at
-                      info@revive-productions.com for more information. Click
-                      each product for more information as well. "Learn More"
-                      leads to each product's affiliated links.
+                      This e-commerce store was built using ReactJs and
+                      Bootstrap with a 6 hour YouTube video as a guide. Please
+                      check out the store and video for more information on
+                      ocean mineral products. The store does not enable purchase
+                      at this time. It is intended for educational use only.
+                      Please contact Lindsay at lindsay_a@comcast.net for more
+                      information. Click each product for more information as
+                      well. "Learn More" leads to each product's affiliated
+                      links where purchase can be made.
                     </p>
                   </h5>
                 </div>

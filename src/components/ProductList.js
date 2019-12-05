@@ -11,7 +11,7 @@ export default class ProductList extends Component {
           <div className="container">
             <Title name="Ocean Mineral" title="products" />
 
-            <div className="row">
+            <div className="row row1">
               <ProductConsumer>
                 {value => {
                   return value.products.map(product => {

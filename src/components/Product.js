@@ -20,7 +20,7 @@ export default class Product extends Component {
                   <img
                     src={img}
                     style={{
-                      width: "10vw",
+                      width: "auto",
                       height: "22vh",
                       display: "flex",
                       margin: "auto"
@@ -82,6 +82,7 @@ const ProductWrapper = styled.div`
     transition: all 1s linear;
     background: var(--lightBlue) !important;
   }
+
   .card-footer {
     background: transparent;
     border-top: transparent;

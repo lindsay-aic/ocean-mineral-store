@@ -8,7 +8,7 @@ export default class Video extends Component {
       //     <div className="c-video">
       <React.Fragment>
         <div className="py-5">
-          <div className="container">
+          <div className="container row1">
             <Title name="Ocean Mineral Fertilizer" title="Testimony" />
           </div>
         </div>
@@ -46,11 +46,11 @@ export default class Video extends Component {
             <p align="justify">
               This interview was in no way affiliated with the products
               themselves. This is an educational tool designed to spread
-              awareness of all natural fertilizers that eliminate the need of
+              awareness of all natural fertilizers that eliminate the need for
               insecticides and pesticides. Healthy plants provided all of the
-              necessary trace elements as found in the ocean grow resistent to
-              disease and thus do not need the help of chemical pesticides and
-              insecticides.
+              necessary trace elements and microbial life as found in the ocean
+              grow resistant to disease and thus do not need the help of
+              chemical pesticides and insecticides.
             </p>
             <br />
             <p align="justify">
